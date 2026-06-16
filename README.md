@@ -164,4 +164,4 @@ Which part of this test felt most outside your current experience? What is your 
 - [ ] Corrected `app.py` and `Dockerfile` for Section 4
 - [ ] Written changelogs for Sections 2 and 4
 - [ ] Final question answered
-- [ ] Sent to [careers@signapse.ai](mailto:careers@signapse.ai) with subject `Technical Test — [Your Name]` or your hiring manager.
+- [ ] Sent to your hiring manager with subject `Technical Test — [Your Name]`.
